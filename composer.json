@@ -1,0 +1,10 @@
+{
+    "name": "dingyuejoy/test",
+    "description": "For test.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Homework\\": "src/"
+        }
+    }
+}
